@@ -2,7 +2,7 @@
 Desarrollador backend especializado en el ecosistema de **Java**, con experiencia en la construcción de aplicaciones robustas usando **Spring Boot**, **Servlets** y **arquitectura basada en microservicios**. Manejo contenedorización con **Docker**, despliegues con **Docker Compose**, y persistencia con **PostgreSQL**, **MySQL** y **JPA**.  
 Soy una persona autodidacta, orientada a buenas prácticas, enfocada en crear soluciones eficientes, escalables y con bases sólidas en ingeniería.
 
-Conoce mas de mi en [mi portafolio](https://mi-portafolio-mu-one.vercel.app/)
+Conoce más de mi en [mi portafolio](https://mi-portafolio-mu-one.vercel.app/)
 
 ---
 
