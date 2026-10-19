@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Alfonso Salazar — Desarrollador Backend Java y Spring Boot</title>
+  <desc id="desc">Banner con estilo de terminal: nombre, rol, tecnologías principales y un fragmento de código Spring Boot.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#f89820"/>
+      <stop offset="1" stop-color="#6db33f"/>
+    </linearGradient>
+    <radialGradient id="glowOrange" cx="1" cy="0" r="0.9">
+      <stop offset="0" stop-color="#f89820" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#f89820" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0" cy="1" r="0.9">
+      <stop offset="0" stop-color="#6db33f" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#6db33f" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="window"><rect x="1" y="1" width="958" height="298" rx="15"/></clipPath>
+  </defs>
+
+  <!-- ventana -->
+  <rect x="1" y="1" width="958" height="298" rx="15" fill="#0d1117"/>
+  <g clip-path="url(#window)">
+    <rect width="960" height="300" fill="url(#glowOrange)"/>
+    <rect width="960" height="300" fill="url(#glowGreen)"/>
+    <rect width="960" height="44" fill="#161b22"/>
+    <path d="M0 44.5H960" stroke="#30363d"/>
+  </g>
+  <rect x="1" y="1" width="958" height="298" rx="15" fill="none" stroke="url(#brand)" stroke-width="2"/>
+  <circle cx="30" cy="22" r="6" fill="#ff5f57"/>
+  <circle cx="52" cy="22" r="6" fill="#febc2e"/>
+  <circle cx="74" cy="22" r="6" fill="#28c840"/>
+  <text x="480" y="27" text-anchor="middle" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13">alfonso@santa-marta: ~/backend</text>
+
+  <!-- presentación -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+    <text x="56" y="98" font-size="16"><tspan fill="#6db33f" font-weight="700">❯</tspan><tspan fill="#8b949e" dx="10">whoami</tspan></text>
+    <text x="56" y="156" fill="#e6edf3" font-size="48" font-weight="700">Alfonso Salazar</text>
+    <rect x="56" y="171" width="168" height="4" rx="2" fill="url(#brand)"/>
+    <text x="56" y="212" fill="#f89820" font-size="24" font-weight="700">Desarrollador Backend</text>
+    <text x="56" y="242" fill="#c9d1d9" font-size="17">Java · Spring Boot · PostgreSQL · Docker</text>
+    <text x="56" y="274" fill="#6db33f" font-size="17" font-weight="700">❯</text>
+    <rect x="76" y="260" width="10" height="18" fill="#6db33f">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- fragmento de código -->
+  <rect x="590" y="68" width="334" height="208" rx="10" fill="#161b22" stroke="#30363d"/>
+  <text x="610" y="92" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12">AlfonsoController.java</text>
+  <path d="M590 102.5H924" stroke="#30363d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#e6edf3">
+    <text x="610" y="128"><tspan fill="#d2a8ff">@RestController</tspan></text>
+    <text x="610" y="148"><tspan fill="#ff7b72">public class</tspan> <tspan fill="#ffa657">Alfonso</tspan> {</text>
+    <text x="627" y="168"><tspan fill="#d2a8ff">@GetMapping</tspan>(<tspan fill="#a5d6ff">"/stack"</tspan>)</text>
+    <text x="627" y="188"><tspan fill="#ffa657">List&lt;String&gt;</tspan> stack() {</text>
+    <text x="644" y="208"><tspan fill="#ff7b72">return</tspan> List.of(</text>
+    <text x="661" y="228"><tspan fill="#a5d6ff">"Java"</tspan>, <tspan fill="#a5d6ff">"Spring"</tspan>, <tspan fill="#a5d6ff">"Docker"</tspan>);</text>
+    <text x="627" y="248">}</text>
+    <text x="610" y="268">}</text>
+  </g>
+</svg>

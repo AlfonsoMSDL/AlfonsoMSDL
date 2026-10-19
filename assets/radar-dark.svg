@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="480" viewBox="0 0 700 480" role="img" aria-labelledby="title">
+  <title id="title">Radar de habilidades: Java &amp; Spring Boot 80, APIs &amp; Seguridad 80, Bases de datos 80, Docker &amp; Nginx 80, Cloud (AWS) 45, Frontend 45</title>
+  <defs>
+    <linearGradient id="brand" gradientUnits="userSpaceOnUse" x1="200.0" y1="0" x2="500.0" y2="0">
+      <stop offset="0" stop-color="#f89820"/>
+      <stop offset="1" stop-color="#6db33f"/>
+    </linearGradient>
+  </defs>
+  <polygon points="350.0,214.0 376.0,229.0 376.0,259.0 350.0,274.0 324.0,259.0 324.0,229.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <polygon points="350.0,184.0 402.0,214.0 402.0,274.0 350.0,304.0 298.0,274.0 298.0,214.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <polygon points="350.0,154.0 427.9,199.0 427.9,289.0 350.0,334.0 272.1,289.0 272.1,199.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <polygon points="350.0,124.0 453.9,184.0 453.9,304.0 350.0,364.0 246.1,304.0 246.1,184.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <polygon points="350.0,94.0 479.9,169.0 479.9,319.0 350.0,394.0 220.1,319.0 220.1,169.0" fill="none" stroke="#30363d" stroke-width="1"/>
+  <line x1="350.0" y1="244.0" x2="350.0" y2="94.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="350.0" y1="244.0" x2="479.9" y2="169.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="350.0" y1="244.0" x2="479.9" y2="319.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="350.0" y1="244.0" x2="350.0" y2="394.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="350.0" y1="244.0" x2="220.1" y2="319.0" stroke="#30363d" stroke-width="1"/>
+  <line x1="350.0" y1="244.0" x2="220.1" y2="169.0" stroke="#30363d" stroke-width="1"/>
+  <polygon points="350.0,124.0 453.9,184.0 453.9,304.0 350.0,364.0 291.5,277.8 291.5,210.2" fill="url(#brand)" fill-opacity=".28" stroke="url(#brand)" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="350.0" cy="124.0" r="4.5" fill="url(#brand)"/>
+  <circle cx="453.9" cy="184.0" r="4.5" fill="url(#brand)"/>
+  <circle cx="453.9" cy="304.0" r="4.5" fill="url(#brand)"/>
+  <circle cx="350.0" cy="364.0" r="4.5" fill="url(#brand)"/>
+  <circle cx="291.5" cy="277.8" r="4.5" fill="url(#brand)"/>
+  <circle cx="291.5" cy="210.2" r="4.5" fill="url(#brand)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
+    <text x="350.0" y="65.0" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="700">Java &amp; Spring Boot</text>
+    <text x="350.0" y="83.0" text-anchor="middle" fill="#8b949e" font-size="13">80 / 100</text>
+    <text x="502.4" y="153.0" text-anchor="start" fill="#e6edf3" font-size="15" font-weight="700">APIs &amp; Seguridad</text>
+    <text x="502.4" y="171.0" text-anchor="start" fill="#8b949e" font-size="13">80 / 100</text>
+    <text x="502.4" y="329.0" text-anchor="start" fill="#e6edf3" font-size="15" font-weight="700">Bases de datos</text>
+    <text x="502.4" y="347.0" text-anchor="start" fill="#8b949e" font-size="13">80 / 100</text>
+    <text x="350.0" y="417.0" text-anchor="middle" fill="#e6edf3" font-size="15" font-weight="700">Docker &amp; Nginx</text>
+    <text x="350.0" y="435.0" text-anchor="middle" fill="#8b949e" font-size="13">80 / 100</text>
+    <text x="197.6" y="329.0" text-anchor="end" fill="#e6edf3" font-size="15" font-weight="700">Cloud (AWS)</text>
+    <text x="197.6" y="347.0" text-anchor="end" fill="#8b949e" font-size="13">45 / 100</text>
+    <text x="197.6" y="153.0" text-anchor="end" fill="#e6edf3" font-size="15" font-weight="700">Frontend</text>
+    <text x="197.6" y="171.0" text-anchor="end" fill="#8b949e" font-size="13">45 / 100</text>
+  </g>
+</svg>
