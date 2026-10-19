@@ -1,0 +1,11 @@
+{
+  "_comment": "Autoevaluación de 0 a 100. Edita los valores y ejecuta: python scripts/radar.py --data assets/skills.json -o assets/radar",
+  "axes": [
+    { "label": "Java & Spring Boot", "value": 80 },
+    { "label": "APIs & Seguridad", "value": 80 },
+    { "label": "Bases de datos", "value": 80 },
+    { "label": "Docker & Nginx", "value": 80 },
+    { "label": "Cloud (AWS)", "value": 45 },
+    { "label": "Frontend", "value": 45 }
+  ]
+}
